@@ -1,3 +1,6 @@
-This contains my codes about AF in camera(auto focus) '\n'
-The goal is to help ppl understand some concepts of AF algorithm '\n'
-It doesn't contain any information that's private for the company '\n'
+This contains my codes about AF in camera(auto focus)
+
+The goal is to help ppl understand some concepts of AF algorithm 
+
+It doesn't contain any information that's private for the company 
+
